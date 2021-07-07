@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "id": "iEuOBYkU",
+      "title": "The Little Book of Semaphores",
+      "author": "TEST 0"
+    },
+    {
+      "id": "0kFaJHB2",
+      "title": "Programming Pearls",
+      "author": "Test 1"
+    },
+    {
+      "id": "ukjXyUuM",
+      "title": "The Elements of Programming Style",
+      "author": "Test 2"
+    },
+    {
+      "id": "BDUDxb6F",
+      "title": "The New Turing Omnibus",
+      "author": "Test 3"
+    }
+  ]
+}
